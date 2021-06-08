@@ -1,5 +1,5 @@
 Django==1.11.29
-Pillow==6.2.0
+Pillow==8.2.0
 django-contrib-comments==1.8.0
 django-generic-flatblocks==1.1.1
 django-resized==0.3.5
