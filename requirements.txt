@@ -1,4 +1,4 @@
-Django==1.11.29
+Django==2.2.24
 Pillow==6.2.0
 django-contrib-comments==1.8.0
 django-generic-flatblocks==1.1.1
